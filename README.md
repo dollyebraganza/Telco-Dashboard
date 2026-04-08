@@ -1,5 +1,5 @@
 # Telco-Dashboard 
-Project Title / Headline
+1.Project Title / Headline
 Telecom Customer Churn & Revenue Retention Analytics
 Predicting Subscriber Attrition and Safeguarding Monthly Recurring Revenue (MRR)
 
@@ -45,4 +45,4 @@ Area Chart: Tracking the volume of churn over time.
 
 Impact & Insight: Discovered that Month-to-Month subscribers on Fiber Optic plans were the highest risk. Recommended a "Contract Migration" strategy to move these users to annual plans, stabilizing long-term revenue.
 
-Screenshot - (
+Screenshot - (https://github.com/dollyebraganza/Telco-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)

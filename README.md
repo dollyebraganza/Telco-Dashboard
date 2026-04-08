@@ -8,7 +8,7 @@ Predicting Subscriber Attrition and Safeguarding Monthly Recurring Revenue (MRR)
  
 The primary goal of this project was to identify the "hidden" drivers of customer churn within a subscription-based business model. By analyzing customer demographics and service usage, I aimed to pinpoint high-risk segments—specifically those on short-term contracts—to provide the leadership team with a data-backed strategy to improve long-term retention and protect company revenue.
 
-4. Tech Stack 
+3. Tech Stack 
 Visualization & BI: Power BI Desktop
 
 Data Transformation: Power Query (M Language)
